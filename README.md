@@ -16,7 +16,7 @@ Table of Content
 
 2. Compiling with Visual Studio Instructions
 
-	Follow the steps in the "Compiling with VS Instruction" pdf file.
+	Follow the steps in the "Compiling with VS Instruction" pdf file located in "C:\SOFTWARE\Compiling with VS Instruction".
 
 3. Contributing to tictactoe game
 
