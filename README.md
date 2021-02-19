@@ -16,23 +16,22 @@ Table of Content
 
 2. Compiling with Visual Studio Instructions
 
-	2.1 If you would like to start from scratch and get familiar with uCOS. You could download three attched zip files and the source code for the game. Then follow the steps in the "Visual Studio instructions" pdf file attached in this repository.  
-	2.2 If you want to start the game with a few steps less, follow the steps in the "Compiling with VS Instruction" pdf file.
+	Follow the steps in the "Compiling with VS Instruction" pdf file.
 
 3. Contributing to tictactoe game
 
-To contribute to <project_name>, follow these steps:  
-	3.1 Fork this repository.  
-    	3.2 Create a branch: git checkout -b <branch_name>  
-    	3.3 Make your changes and commit them: git commit -m '<commit_message>'  
-    	3.4 Push to the original branch: git push origin <project_name>/<location>  
-    	3.5 Create the pull request.  
+To contribute to this program, follow these steps:  
+* Fork this repository.  
+* Create a branch: git checkout -b <branch_name>  
+* Make your changes and commit them: git commit -m '<commit_message>'  
+* Push to the original branch: git push origin <project_name>/<location>  
+* Create the pull request.  
 
 4. Contact Information
 
 	e-mail:	oab.uv9@gmail.com  
 	github:	https://github.com/oabuv
 	
-5. Credits and Acknowledgements
-	Bao Vu, code developer
-	Jukka Matila, code developing instructor
+5. Credits and Acknowledgements  
+	Bao Vu, code developer  
+	Jukka Matila, code developing instructor  
