@@ -1,6 +1,6 @@
 # uCOS_tictactoe
-This project is a simple tictactoe game made for pratical coding in RTOS and get familiar with uC/OS.  
-The game creates 3x3 game board and will be played and analyzed automatically by the code.
+This project is a tictactoe game made for pratical coding in RTOS and get familiar with uC/OS.  
+The game creates 3x3 game board and will be played and analyzed automatically by the program.
 
 Table of Content  
 	1. Prerequisites  
